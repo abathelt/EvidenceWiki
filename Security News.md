@@ -1,16 +1,16 @@
 # Security News
-https://securityweekly.com/blog
-https://www.darkreading.com/
-https://thehackernews.com/
-https://www.infosecurity-magazine.com/
-https://www.csoonline.com/
-https://www.tripwire.com/state-of-security/
-https://www.troyhunt.com/
-https://www.lastwatchdog.com/
-https://www.schneier.com/
-https://blogs.akamai.com/
-https://krebsonsecurity.com/
-https://blog.qualys.com/
-https://www.itsecurityguru.org/
-https://threatpost.com/
-https://www.computerworld.com/category/emerging-technology/
+https://securityweekly.com/blog <br>
+https://www.darkreading.com/ <br>
+https://thehackernews.com/ <br>
+https://www.infosecurity-magazine.com/ <br>
+https://www.csoonline.com/ <br>
+https://www.tripwire.com/state-of-security/ <br>
+https://www.troyhunt.com/ <br>
+https://www.lastwatchdog.com/ <br>
+https://www.schneier.com/ <br>
+https://blogs.akamai.com/ <br>
+https://krebsonsecurity.com/ <br>
+https://blog.qualys.com/ <br>
+https://www.itsecurityguru.org/ <br>
+https://threatpost.com/ <br>
+https://www.computerworld.com/category/emerging-technology/ <br>
