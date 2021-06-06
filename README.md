@@ -1,7 +1,7 @@
 ## EvidenceWiki - in progress
 This section contains information about evidence at analyst's disposal 
 
-### Data Sources 
+### Threat Intel Resources 
 Threat intel resource used by analysts on a daily basis.
 
 #### Domain & IP 
@@ -9,6 +9,7 @@ Threat intel resource used by analysts on a daily basis.
 - [Talos Intelligence](https://talosintelligence.com/)
 - [VirtusTotal](https://www.virustotal.com/gui/) 
 - [IPVoid](https://www.ipvoid.com/)
+- [TI Search Engine](https://maltiverse.com/search)
 - [Shodan](https://www.shodan.io/)
 - [GrayNoise](https://viz.greynoise.io/)
 - [DNSdumpster](https://dnsdumpster.com/) 
@@ -31,6 +32,7 @@ Threat intel resource used by analysts on a daily basis.
 - [Any.Run](https://app.any.run/)
 - [Joe Sandbox](https://www.joesandbox.com/#windows) 
 - [Analyzing Malicious Documents Cheat sheet](https://www.sans.org/security-resources/posters/dfir/)
+- [30 Online Malware Analysis Sandboxes / Static Analyzers](https://redteamer.medium.com/15-online-sandboxes-for-malware-analysis-f8885ecb8a35)
 
 #### Phishing 
 - [CheckPhish](https://checkphish.ai/)
@@ -58,6 +60,10 @@ Threat intel resource used by analysts on a daily basis.
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [BASE64](https://www.base64decode.org/)
 - [Hexed](https://hexed.it/)
+- [Explain shell code](https://explainshell.com/)
+- [Dan's Tools](https://www.url-encode-decode.com/base64-encode-decode/)
+- [Code Decode/Encoder](https://www.browserling.com/tools/utf16-encode)
+- [Script converter](https://www.freeformatter.com/javascript-beautifier.html#ad-output)
 
 #### Google Dorks 
 - [OSINTcurio.us](https://osintcurio.us/2019/12/20/google-dorks/)
