@@ -13,6 +13,7 @@ All of my threat intel recommendations for aspiring Information Security Analyst
 - [Forensic](#forensic-list)
 - [Cheatsheet](#cheat-sheet)
 - [Effective writing](#effective-write)
+- [CTF/Learning](#ctf-challange)
 
 ### Threat Intel Resources 
 Threat intel resource used by analysts on a daily basis.
@@ -73,6 +74,7 @@ Threat intel resource used by analysts on a daily basis.
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [BASE64](https://www.base64decode.org/)
 - [Hexed](https://hexed.it/)
+- [Filecrypt](https://filecrypt.co/Create.html)
 - [Explain shell code](https://explainshell.com/)
 - [Dan's Tools](https://www.url-encode-decode.com/base64-encode-decode/)
 - [Code Decode/Encoder](https://www.browserling.com/tools/utf16-encode)
@@ -110,3 +112,11 @@ Threat intel resource used by analysts on a daily basis.
 - [Better Threat Reports](https://zeltser.com/write-better-threat-reports)
 - [Language Tool](https://languagetool.org/)
 - [Grammarly](https://app.grammarly.com/)
+
+### <a name="ctf-challange"></a>CTF/Learning
+- [Blue Team Labs](https://blueteamlabs.online/)
+- [Cyber Defenders](https://cyberdefenders.org/)
+- [CTF learn](https://ctflearn.com/)
+- [Hacker101](https://www.hacker101.com/)
+- [Try Hack me](https://tryhackme.com/)
+- [Hack the Box](https://www.hackthebox.eu/)
