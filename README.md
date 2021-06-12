@@ -1,10 +1,23 @@
 ## EvidenceWiki - in progress
-This section contains information about evidence at analyst's disposal 
+All of my threat intel recommendations for aspiring Information Security Analyst. This section contains information about evidence at analyst's disposal `IP`, `domain`, `email`, `hash`, `files`.
+- [Domain & IP](#domain-ip)
+- [Files, Hash & Sandbox](#files-hashes)
+- [Phishing](#phish-ing)
+- [UserAgent](#user-agent)
+- [Miner](#min-er)
+- [Encoder/Decoder](#encode-decode)
+- [Google Dorks](#google-dork)
+- [OSINT](#osint-fav)
+- [Dumps](#dum-ps)
+- [List of Default Passwords](#list-dp)
+- [Forensic](#forensic-list)
+- [Cheatsheet](#cheat-sheet)
+- [Effective writing](#effective-write)
 
 ### Threat Intel Resources 
 Threat intel resource used by analysts on a daily basis.
 
-#### Domain & IP 
+#### <a name="domain-ip"></a> Domain & IP
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [Talos Intelligence](https://talosintelligence.com/)
 - [VirtusTotal](https://www.virustotal.com/gui/) 
@@ -25,7 +38,7 @@ Threat intel resource used by analysts on a daily basis.
 - [ReversDNS](https://viewdns.info/reversewhois/) 
 - [DNSRecord](https://viewdns.info/dnsrecord/) 
 
-#### Files, Hash & Sandbox (DO NOT upload our internal files!) 
+#### <a name="files-hashes"></a>Files, Hash & Sandbox (DO NOT upload our internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
 - [VirSCAN.org](http://virscan.org/)
 - [TotalHash](https://totalhash.cymru.com/)
@@ -34,7 +47,7 @@ Threat intel resource used by analysts on a daily basis.
 - [Analyzing Malicious Documents Cheat sheet](https://www.sans.org/security-resources/posters/dfir/)
 - [30 Online Malware Analysis Sandboxes / Static Analyzers](https://redteamer.medium.com/15-online-sandboxes-for-malware-analysis-f8885ecb8a35)
 
-#### Phishing 
+#### <a name="phish-ing"></a>Phishing 
 - [CheckPhish](https://checkphish.ai/)
 - [EmailRep](https://emailrep.io/)
 - [Hunter.io](https://hunter.io/)
@@ -48,15 +61,15 @@ Threat intel resource used by analysts on a daily basis.
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [Have I Been Sold](https://haveibeensold.app/)
 
-#### UserAgent: 
+#### <a name="user-agent"></a>UserAgent: 
 - [UserAgentString](http://useragentstring.com/)
 - [ParseUserAegnt](https://developers.whatismybrowser.com/useragents/parse/#parse-useragent)
 - [History of the browser user-agent string](https://webaim.org/blog/user-agent-string-history/)
 
-#### Miner 
+#### <a name="min-er"></a>Miner 
 - [ThreatMiner](https://www.threatminer.org/)
 
-#### Encode/Decode 
+#### <a name="encode-decode"></a>Encode/Decode 
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [BASE64](https://www.base64decode.org/)
 - [Hexed](https://hexed.it/)
@@ -65,12 +78,12 @@ Threat intel resource used by analysts on a daily basis.
 - [Code Decode/Encoder](https://www.browserling.com/tools/utf16-encode)
 - [Script converter](https://www.freeformatter.com/javascript-beautifier.html#ad-output)
 
-#### Google Dorks 
+#### <a name="google-dork"></a>Google Dorks 
 - [OSINTcurio.us](https://osintcurio.us/2019/12/20/google-dorks/)
 - [ahrefs](https://ahrefs.com/blog/google-advanced-search-operators/)
 - [Cheatsheet](http://www.googleguide.com/print/adv_op_ref.pdf)
 
-#### OSINT 
+#### <a name="osint-fav"></a>OSINT 
 - [OSINT Framework](https://osintframework.com/)
 - [Start.me The Ultimate OSINT collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
 - [OSINT ME](https://www.osintme.com/)
@@ -78,21 +91,22 @@ Threat intel resource used by analysts on a daily basis.
 - [Explot Database](https://www.exploit-db.com/google-hacking-database)
 - [DSNTwits - TypoSquatting](https://dnstwister.report/)
 
-#### Dumps 
+#### <a name="dum-ps"></a>Dumps 
 - [PSbdmp](https://psbdmp.ws/)
 - [Pastebin](https://pastebin.com/)
 
-#### List of Default Passwords 
+#### <a name="list-dp"></a>List of Default Passwords 
 - [Data Recovery](https://datarecovery.com/rd/default-passwords/)
 
-#### Forensic
+#### <a name="forensic-list"></a>Forensic
 - [Start.me Forensics](https://start.me/p/q6mw4Q/forensics)
 
 ### OTHER
-#### CheatSheets 
+#### <a name="cheat-sheet"></a>CheatSheets 
 - [DIRF cheatsheet](https://www.dfir.training/cheat-sheets)
 - [Zelter's Security Incident Survey Cheat Sheet](https://www.sans.org/reading-room/whitepapers/incident/incident-handlers-handbook-33901)
 
-#### Effective Writing  
+#### <a name="effective-write"></a>Effective Writing  
 - [Better Threat Reports](https://zeltser.com/write-better-threat-reports)
-- [Grammarly - app](https://app.grammarly.com/)
+- [Language Tool](https://languagetool.org/)
+- [Grammarly](https://app.grammarly.com/)
