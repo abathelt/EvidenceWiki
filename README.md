@@ -113,7 +113,7 @@ Threat intel resource used by analysts on a daily basis.
 - [Language Tool](https://languagetool.org/)
 - [Grammarly](https://app.grammarly.com/)
 
-### <a name="ctf-challange"></a>CTF/Learning
+#### <a name="ctf-challange"></a>CTF/Learning
 - [Blue Team Labs](https://blueteamlabs.online/)
 - [Cyber Defenders](https://cyberdefenders.org/)
 - [CTF learn](https://ctflearn.com/)
