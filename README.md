@@ -18,20 +18,20 @@ All of my threat intel recommendations for aspiring Information Security Analyst
 ### Threat Intel Resources 
 Threat intel resource used by analysts on a daily basis.
 
-#### <a name="domain-ip"></a> Domain & IP
+#### <a name="domain-ip"></a> Domain & IP (top 6 are the most used by me)
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [Talos Intelligence](https://talosintelligence.com/)
 - [VirtusTotal](https://www.virustotal.com/gui/) 
+- [URL2PNG](https://www.url2png.com/) 
+- [URLScan](https://urlscan.io/) 
+- [ThreatCrowd](https://www.threatcrowd.org/) 
 - [IPVoid](https://www.ipvoid.com/)
 - [TI Search Engine](https://maltiverse.com/search)
 - [Shodan](https://www.shodan.io/)
 - [GrayNoise](https://viz.greynoise.io/)
 - [DNSdumpster](https://dnsdumpster.com/) 
 - [URLVoid](https://www.urlvoid.com/) 
-- [URLScan](https://urlscan.io/) 
-- [URL2PNG](https://www.url2png.com/) 
 - [Forecpoint CSI (URL/IP)](http://csi.forcepoint.com/) 
-- [ThreatCrowd](https://www.threatcrowd.org/) 
 - [Domain Dossier](https://centralops.net/co/DomainDossier.aspx) 
 - [URLhaus](https://urlhaus.abuse.ch/browse/) 
 - [Browse Botnet C&Cs](https://feodotracker.abuse.ch/browse/) 
@@ -39,24 +39,24 @@ Threat intel resource used by analysts on a daily basis.
 - [ReversDNS](https://viewdns.info/reversewhois/) 
 - [DNSRecord](https://viewdns.info/dnsrecord/) 
 
-#### <a name="files-hashes"></a>Files, Hash & Sandbox (DO NOT upload our internal files!) 
+#### <a name="files-hashes"></a>Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
+- [Any.Run](https://app.any.run/)
 - [VirSCAN.org](http://virscan.org/)
 - [TotalHash](https://totalhash.cymru.com/)
-- [Any.Run](https://app.any.run/)
 - [Joe Sandbox](https://www.joesandbox.com/#windows) 
 - [Analyzing Malicious Documents Cheat sheet](https://www.sans.org/security-resources/posters/dfir/)
 - [30 Online Malware Analysis Sandboxes / Static Analyzers](https://redteamer.medium.com/15-online-sandboxes-for-malware-analysis-f8885ecb8a35)
 
 #### <a name="phish-ing"></a>Phishing 
-- [CheckPhish](https://checkphish.ai/)
 - [EmailRep](https://emailrep.io/)
+- [Verify-Email](https://verify-email.org/)
 - [Hunter.io](https://hunter.io/)
 - [PublicEmailRecords](http://publicemailrecords.com/)
 - [EmailBlackist](https://grademyemail.co/email-blocklist-checker) 
 - [PhishTank](https://www.phishtank.com/)
 - [Spy Dialer](https://www.spydialer.com/default.aspx)
-- [Verify-Email](https://verify-email.org/)
+- [CheckPhish](https://checkphish.ai/)
 - [Reverse Email Lookup](https://thatsthem.com/reverse-email-lookup)
 - [Confense webinar "Remote Work Phishing Threats and How to Stop Them"](https://vimeo.com/418602022/7935ced585)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
@@ -102,6 +102,7 @@ Threat intel resource used by analysts on a daily basis.
 
 #### <a name="forensic-list"></a>Forensic
 - [Start.me Forensics](https://start.me/p/q6mw4Q/forensics)
+- [Start.me Digital Forensic](https://start.me/p/ekq7Al/digital-forensics)
 
 ### OTHER
 #### <a name="cheat-sheet"></a>CheatSheets 
@@ -120,3 +121,4 @@ Threat intel resource used by analysts on a daily basis.
 - [Hacker101](https://www.hacker101.com/)
 - [Try Hack me](https://tryhackme.com/)
 - [Hack the Box](https://www.hackthebox.eu/)
+- [VulnHub](https://www.vulnhub.com/)
