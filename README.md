@@ -9,7 +9,7 @@ All of my threat intel recommendations for aspiring Information Security Analyst
 - 🔎 [Google Dorks](#google-dork)
 - 🌐 [OSINT](#osint-fav)
 - 📖 [Dumps](#dum-ps)
-- ✔️ [List of Default Passwords](#list-dp)
+- 🔑 [List of Default Passwords](#list-dp)
 - 🧰 [Forensic](#forensic-list)
 - 📋 [Cheatsheet](#cheat-sheet)
 - ✍️ [Effective writing](#effective-write)
@@ -97,7 +97,7 @@ Threat intel resource used by analysts on a daily basis.
 - [PSbdmp](https://psbdmp.ws/)
 - [Pastebin](https://pastebin.com/)
 
-#### <a name="list-dp"></a>✔️ List of Default Passwords 
+#### <a name="list-dp"></a>🔑 List of Default Passwords 
 - [Data Recovery](https://datarecovery.com/rd/default-passwords/)
 
 #### <a name="forensic-list"></a>🧰 Forensic
