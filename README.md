@@ -41,6 +41,7 @@ Threat intel resource used by analysts on a daily basis.
 
 #### <a name="files-hashes"></a>📁 Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
+- [Metadefender Cloud - OPSWAT](https://metadefender.opswat.com/)
 - [Any.Run](https://app.any.run/)
 - [VirSCAN.org](http://virscan.org/)
 - [TotalHash](https://totalhash.cymru.com/)
