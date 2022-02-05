@@ -27,7 +27,8 @@ Threat intel resource used by analysts on a daily basis.
 - [ThreatCrowd](https://www.threatcrowd.org/) 
 - [IPVoid](https://www.ipvoid.com/)
 - [TI Search Engine](https://maltiverse.com/search)
-- [Shodan](https://www.shodan.io/)
+- [Shodan](https://www.shodan.io/) - IoT search
+- [Gray Hat Warfare](https://buckets.grayhatwarfare.com/) - public buckets 
 - [GrayNoise](https://viz.greynoise.io/)
 - [DNSdumpster](https://dnsdumpster.com/) 
 - [URLVoid](https://www.urlvoid.com/) 
