@@ -124,3 +124,5 @@ Threat intel resource used by analysts on a daily basis.
 - [Try Hack me](https://tryhackme.com/)
 - [Hack the Box](https://www.hackthebox.eu/)
 - [VulnHub](https://www.vulnhub.com/)
+- [Immersive Labs](https://immersivelabs.online/signin)
+- [Pentest Lab](https://pentesterlab.com/)
