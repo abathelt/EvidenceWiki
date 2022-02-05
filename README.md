@@ -73,9 +73,10 @@ Threat intel resource used by analysts on a daily basis.
 - [ThreatMiner](https://www.threatminer.org/)
 
 #### <a name="encode-decode"></a>🖹 Encode/Decode 
-- [CyberChef](https://gchq.github.io/CyberChef/)
-- [BASE64](https://www.base64decode.org/)
-- [Hexed](https://hexed.it/)
+- [CyberChef](https://gchq.github.io/CyberChef/) - encryption, encoding, compression and data analysis
+- [BASE64](https://www.base64decode.org/) - Decode from Base64 format or encode into it with various advanced options. 
+- [Hexed](https://hexed.it/) - analyse and edit binary files everywhere
+- [Uncoder](https://uncoder.io/) - Universal sigma rule converter for various siem, edr, and ntdr formats
 - [Filecrypt](https://filecrypt.co/Create.html)
 - [Explain shell code](https://explainshell.com/)
 - [Dan's Tools](https://www.url-encode-decode.com/base64-encode-decode/)
