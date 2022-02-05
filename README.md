@@ -9,6 +9,7 @@ All of my threat intel recommendations for aspiring Information Security Analyst
 - 🔎 [Google Dorks](#google-dork)
 - 🌐 [OSINT](#osint-fav)
 - 📖 [Dumps](#dum-ps)
+- 🔄 [URL Sshorteners](#short)
 - 🔑 [List of Default Passwords](#list-dp)
 - 🧰 [Forensic](#forensic-list)
 - 📋 [Cheatsheet](#cheat-sheet)
@@ -99,6 +100,14 @@ Threat intel resource used by analysts on a daily basis.
 #### <a name="dum-ps"></a>📖 Dumps 
 - [PSbdmp](https://psbdmp.ws/)
 - [Pastebin](https://pastebin.com/)
+
+#### <a name="short"></a>🔄 URL Shorteners
+- [bit.ly](https://bitly.com/) - You can verify the destination of any Bitly link by adding a plus symbol ("+") at the end of the URL (e.g. bitly.is/meta+) 
+- [s.id](https://home.s.id/)
+- [smarturl.it](https://manage.smarturl.it/)
+- [tiny.pl](https://tiny.pl/)
+- [tinyurl.com](https://tinyurl.com/app)
+- [x.co](https://shortener.godaddy.com/)
 
 #### <a name="list-dp"></a>🔑 List of Default Passwords 
 - [Data Recovery](https://datarecovery.com/rd/default-passwords/)
