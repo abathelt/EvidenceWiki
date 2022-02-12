@@ -9,6 +9,7 @@ All of my threat intel recommendations for aspiring Information Security Analyst
 - 🔎 [Google Dorks](#google-dork)
 - 🌐 [OSINT](#osint-fav)
 - 📖 [Dumps](#dum-ps)
+- 🐛 [Vulnerabilities](#vuln)
 - 🔄 [URL Sshorteners](#short)
 - 🔑 [List of Default Passwords](#list-dp)
 - 🧰 [Forensic](#forensic-list)
@@ -100,6 +101,14 @@ Threat intel resource used by analysts on a daily basis.
 #### <a name="dum-ps"></a>📖 Dumps 
 - [PSbdmp](https://psbdmp.ws/)
 - [Pastebin](https://pastebin.com/)
+
+#### <a name="vuln"></a>🐛 Vulnerabilities 
+- [CVE Trends](https://cvetrends.com/)
+- [Exploit DB](https://www.exploit-db.com/)
+- [Rapid7 DB](https://www.rapid7.com/db/)
+- [NIST NVD](https://nvd.nist.gov/vuln/search)
+- [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
+- [CVE details](https://www.cvedetails.com/)
 
 #### <a name="short"></a>🔄 URL Shorteners
 - [bit.ly](https://bitly.com/) - You can verify the destination of any Bitly link by adding a plus symbol ("+") at the end of the URL (e.g. bitly.is/meta+) 
