@@ -1,17 +1,17 @@
 # Security News
-https://securityweekly.com/blog <br>
-https://www.darkreading.com/ <br>
-https://www.bleepingcomputer.com/ <br>
-https://thehackernews.com/ <br>
-https://www.infosecurity-magazine.com/ <br>
-https://www.csoonline.com/ <br>
-https://www.tripwire.com/state-of-security/ <br>
-https://www.troyhunt.com/ <br>
-https://www.lastwatchdog.com/ <br>
-https://www.schneier.com/ <br>
-https://blogs.akamai.com/ <br>
-https://krebsonsecurity.com/ <br>
-https://blog.qualys.com/ <br>
-https://www.itsecurityguru.org/ <br>
-https://threatpost.com/ <br>
-https://www.computerworld.com/category/emerging-technology/ <br>
+- [SecurityWeekly](https://securityweekly.com/blog)
+- [DarkReading](https://www.darkreading.com)
+- [BleepingComputer](https://www.bleepingcomputer.com)
+- [TheHackerNews](https://thehackernews.com/)
+- [CSoonline](https://www.csoonline.com/)
+- [TripWire](https://www.tripwire.com/state-of-security/)
+- [Troy Hunt](https://www.troyhunt.com/)
+- [LastWatchdog](https://www.lastwatchdog.com/)
+- [Schneier](https://www.schneier.com/)
+- [Akamai blog](https://blogs.akamai.com/)
+- [krebsonsecurity](https://krebsonsecurity.com/)
+- [Qualys blog](https://blog.qualys.com/)
+- [ITsecurityguru](https://www.itsecurityguru.org/)
+- [ThreatPost](https://threatpost.com/)
+- [ComputerWorld](https://www.computerworld.com/category/emerging-technology/)
+- [Infosecurity-magazine](https://www.infosecurity-magazine.com/)
