@@ -34,6 +34,7 @@ Threat intel resource used by analysts on a daily basis.
 - [GrayNoise](https://viz.greynoise.io/)
 - [DNSdumpster](https://dnsdumpster.com/) 
 - [URLVoid](https://www.urlvoid.com/) 
+- [Polyswarm](https://polyswarm.network/)
 - [Forecpoint CSI (URL/IP)](http://csi.forcepoint.com/) 
 - [Domain Dossier](https://centralops.net/co/DomainDossier.aspx) 
 - [URLhaus](https://urlhaus.abuse.ch/browse/) 
@@ -45,9 +46,12 @@ Threat intel resource used by analysts on a daily basis.
 #### <a name="files-hashes"></a>📁 Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
 - [Metadefender Cloud - OPSWAT](https://metadefender.opswat.com/)
-- [Any.Run](https://app.any.run/)
+- [Any.Run](https://app.any.run/) - sandbox
 - [VirSCAN.org](http://virscan.org/)
 - [TotalHash](https://totalhash.cymru.com/)
+- [Malwares](https://www.malwares.com/)
+- [Intezer analyze](https://analyze.intezer.com/) - All malware analysis tools under one platform
+- [Cuckoo](https://cuckoo.cert.ee/) - sandbox
 - [Joe Sandbox](https://www.joesandbox.com/#windows) 
 - [Analyzing Malicious Documents Cheat sheet](https://www.sans.org/security-resources/posters/dfir/)
 - [30 Online Malware Analysis Sandboxes / Static Analyzers](https://redteamer.medium.com/15-online-sandboxes-for-malware-analysis-f8885ecb8a35)
@@ -134,6 +138,7 @@ Threat intel resource used by analysts on a daily basis.
 - [Better Threat Reports](https://zeltser.com/write-better-threat-reports)
 - [Language Tool](https://languagetool.org/)
 - [Grammarly](https://app.grammarly.com/)
+- [How to Ask Questions to Succeed with Security Projects](https://zeltser.com/how-to-ask-questions-to-succeed-with-security-projects/)
 
 #### <a name="ctf-challange"></a>👩‍🎓 CTF/Learning
 - [Blue Team Labs](https://blueteamlabs.online/)
