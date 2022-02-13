@@ -1,6 +1,7 @@
 # Security News
 https://securityweekly.com/blog <br>
 https://www.darkreading.com/ <br>
+https://www.bleepingcomputer.com/ <br>
 https://thehackernews.com/ <br>
 https://www.infosecurity-magazine.com/ <br>
 https://www.csoonline.com/ <br>
