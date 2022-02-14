@@ -114,6 +114,9 @@ Threat intel resource used by analysts on a daily basis.
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
 - [CVE details](https://www.cvedetails.com/)
 
+#### Malware
+-[dasmalwerk](https://dasmalwerk.eu/) - malware samples
+
 #### <a name="short"></a>🔄 URL Shorteners
 - [bit.ly](https://bitly.com/) - You can verify the destination of any Bitly link by adding a plus symbol ("+") at the end of the URL (e.g. bitly.is/meta+) 
 - [s.id](https://home.s.id/)
@@ -141,6 +144,7 @@ Threat intel resource used by analysts on a daily basis.
 - [How to Ask Questions to Succeed with Security Projects](https://zeltser.com/how-to-ask-questions-to-succeed-with-security-projects/)
 
 #### <a name="ctf-challange"></a>👩‍🎓 CTF/Learning
+- [Lets Defend](https://letsdefend.io/)
 - [Blue Team Labs](https://blueteamlabs.online/)
 - [Cyber Defenders](https://cyberdefenders.org/)
 - [CTF learn](https://ctflearn.com/)
