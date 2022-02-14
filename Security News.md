@@ -17,3 +17,5 @@
 - [Infosecurity-magazine](https://www.infosecurity-magazine.com/)
 - [Minerva](https://blog.minerva-labs.com/)
 - [Hackersploit](https://hackersploit.org/)
+- [Space Raccoon blog](https://spaceraccoon.dev/)
+- [TechURLs](https://techurls.com/)
