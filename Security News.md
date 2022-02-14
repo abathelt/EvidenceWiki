@@ -15,3 +15,5 @@
 - [ThreatPost](https://threatpost.com/)
 - [ComputerWorld](https://www.computerworld.com/category/emerging-technology/)
 - [Infosecurity-magazine](https://www.infosecurity-magazine.com/)
+- [Minerva](https://blog.minerva-labs.com/)
+- [Hackersploit](https://hackersploit.org/)
