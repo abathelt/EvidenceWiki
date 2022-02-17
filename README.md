@@ -88,6 +88,8 @@ Threat intel resource used by analysts on a daily basis.
 - [Dan's Tools](https://www.url-encode-decode.com/base64-encode-decode/)
 - [Code Decode/Encoder](https://www.browserling.com/tools/utf16-encode)
 - [Script converter](https://www.freeformatter.com/javascript-beautifier.html#ad-output)
+- [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/)
+- [Hashes examples](https://hashcat.net/wiki/doku.php?id=example_hashes)
 
 #### <a name="google-dork"></a>🔎 Google Dorks 
 - [OSINTcurio.us](https://osintcurio.us/2019/12/20/google-dorks/)
