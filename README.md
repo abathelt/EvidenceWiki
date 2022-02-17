@@ -117,7 +117,8 @@ Threat intel resource used by analysts on a daily basis.
 - [CVE details](https://www.cvedetails.com/)
 
 #### Malware
--[dasmalwerk](https://dasmalwerk.eu/) - malware samples
+- [Dasmalwerk](https://dasmalwerk.eu/) - malware samples
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html) - traffic analysis exercises
 
 #### <a name="short"></a>🔄 URL Shorteners
 - [bit.ly](https://bitly.com/) - You can verify the destination of any Bitly link by adding a plus symbol ("+") at the end of the URL (e.g. bitly.is/meta+) 
