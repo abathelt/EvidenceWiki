@@ -26,6 +26,8 @@ Threat intel resource used by analysts on a daily basis.
 - [VirtusTotal](https://www.virustotal.com/gui/) 
 - [URL2PNG](https://www.url2png.com/) 
 - [URLScan](https://urlscan.io/) 
+- [AlienVault](https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1)
+- [RiskIQ](https://community.riskiq.com/home)
 - [ThreatCrowd](https://www.threatcrowd.org/) 
 - [IPVoid](https://www.ipvoid.com/)
 - [TI Search Engine](https://maltiverse.com/search)
@@ -103,6 +105,7 @@ Threat intel resource used by analysts on a daily basis.
 - [OSINT collection github](https://github.com/Ph055a/OSINT_Collection#pastebins)
 - [Explot Database](https://www.exploit-db.com/google-hacking-database)
 - [DSNTwits - TypoSquatting](https://dnstwister.report/)
+- [IntelTechniques by Michael Bazzell](https://inteltechniques.com/links.html)
 
 #### <a name="dum-ps"></a>📖 Dumps 
 - [PSbdmp](https://psbdmp.ws/)
