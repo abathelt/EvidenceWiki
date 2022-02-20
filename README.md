@@ -117,6 +117,7 @@ Threat intel resource used by analysts on a daily basis.
 #### <a name="vuln"></a>🐛 Vulnerabilities 
 - [CVE Trends](https://cvetrends.com/)
 - [Exploit DB](https://www.exploit-db.com/)
+- [AttackerKB](https://attackerkb.com/)
 - [Rapid7 DB](https://www.rapid7.com/db/)
 - [NIST NVD](https://nvd.nist.gov/vuln/search)
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html)
