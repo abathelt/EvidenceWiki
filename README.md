@@ -24,7 +24,7 @@ Threat intel resource used by analysts on a daily basis.
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [Talos Intelligence](https://talosintelligence.com/)
 - [VirtusTotal](https://www.virustotal.com/gui/) 
-- [URL2PNG](https://www.url2png.com/) 
+- [URL2PNG](https://www.url2png.com/) - does a screenshot of the website
 - [URLScan](https://urlscan.io/) 
 - [AlienVault](https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1)
 - [RiskIQ](https://community.riskiq.com/home)
@@ -85,13 +85,14 @@ Threat intel resource used by analysts on a daily basis.
 - [BASE64](https://www.base64decode.org/) - Decode from Base64 format or encode into it with various advanced options. 
 - [Hexed](https://hexed.it/) - analyse and edit binary files everywhere
 - [Uncoder](https://uncoder.io/) - Universal sigma rule converter for various siem, edr, and ntdr formats
-- [Filecrypt](https://filecrypt.co/Create.html)
-- [Explain shell code](https://explainshell.com/)
-- [Dan's Tools](https://www.url-encode-decode.com/base64-encode-decode/)
+- [ShellCheck](https://www.shellcheck.net/) - finds bugs in your shell scripts.
+- [Explain shell code](https://explainshell.com/) - write down a command-line to see the help text that matches each argument
+- [Dan's Tools - Base64](https://www.url-encode-decode.com/base64-encode-decode/)
 - [Code Decode/Encoder](https://www.browserling.com/tools/utf16-encode)
-- [Script converter](https://www.freeformatter.com/javascript-beautifier.html#ad-output)
+- [Script converter](https://www.freeformatter.com/javascript-beautifier.html#ad-output) - These tools include several formatters, validators, code minifiers, string escapers, encoders and decoders, message digesters, web resources and more
 - [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/)
 - [Hashes examples](https://hashcat.net/wiki/doku.php?id=example_hashes)
+- [Filecrypt](https://filecrypt.co/Create.html) - The simple, secure file-hosting application
 
 #### <a name="google-dork"></a>🔎 Google Dorks 
 - [OSINTcurio.us](https://osintcurio.us/2019/12/20/google-dorks/)
