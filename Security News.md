@@ -1,8 +1,10 @@
 # Security News
-- [SecurityWeekly](https://securityweekly.com/blog)
 - [DarkReading](https://www.darkreading.com)
 - [BleepingComputer](https://www.bleepingcomputer.com)
 - [TheHackerNews](https://thehackernews.com/)
+- [The Register](https://www.theregister.com/)
+- [TechURLs](https://techurls.com/)
+- [Intigriti blog](https://blog.intigriti.com/)
 - [CSoonline](https://www.csoonline.com/)
 - [TripWire](https://www.tripwire.com/state-of-security/)
 - [Troy Hunt](https://www.troyhunt.com/)
@@ -18,4 +20,10 @@
 - [Minerva](https://blog.minerva-labs.com/)
 - [Hackersploit](https://hackersploit.org/)
 - [Space Raccoon blog](https://spaceraccoon.dev/)
-- [TechURLs](https://techurls.com/)
+- [SecurityWeekly](https://securityweekly.com/blog)
+
+# Newsletters
+- [CISA updates](https://public.govdelivery.com/accounts/USDHSCISA/subscriber/new?qsp=CODE_RED)
+- [SANS newsletter](https://www.sans.org/newsletters/)
+- [Intigriti newsletter](https://newsletter.intigriti.com/)
+
