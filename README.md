@@ -165,3 +165,4 @@ Threat intel resource used by analysts on a daily basis.
 - [VulnHub](https://www.vulnhub.com/)
 - [Immersive Labs](https://immersivelabs.online/signin)
 - [Pentest Lab](https://pentesterlab.com/)
+- [Pico CTF](https://play.picoctf.org/login?redirect=/login)
