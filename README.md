@@ -47,6 +47,7 @@ Threat intel resource used by analysts on a daily basis.
 
 #### <a name="files-hashes"></a>📁 Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
+- [ThreatMiner](https://www.threatminer.org/) - sata mining for threat intelligence (hash/IP/URL)
 - [Metadefender Cloud - OPSWAT](https://metadefender.opswat.com/)
 - [Any.Run](https://app.any.run/) - sandbox
 - [VirSCAN.org](http://virscan.org/)
@@ -77,8 +78,9 @@ Threat intel resource used by analysts on a daily basis.
 - [ParseUserAegnt](https://developers.whatismybrowser.com/useragents/parse/#parse-useragent)
 - [History of the browser user-agent string](https://webaim.org/blog/user-agent-string-history/)
 
-#### <a name="min-er"></a>⛏️ Miner 
-- [ThreatMiner](https://www.threatminer.org/)
+#### <a name="min-er"></a>⛏️ Miner/Blockchain
+- [Block Cypher](https://live.blockcypher.com/) - search the block chain
+- [Ether Chain](https://www.etherchain.org/) - The Ethereum Block Chain Explorer
 
 #### <a name="encode-decode"></a>🖹 Encode/Decode 
 - [CyberChef](https://gchq.github.io/CyberChef/) - encryption, encoding, compression and data analysis
