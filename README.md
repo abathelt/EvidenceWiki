@@ -1,4 +1,4 @@
-## EvidenceWiki - in progress
+## EvidenceWiki
 All of my threat intel recommendations for aspiring Information Security Analyst. This section contains information about evidence at analyst's disposal `IP`, `domain`, `email`, `hash`, `files`.
 - 💻 [Domain & IP](#domain-ip)
 - 📁 [Files, Hash & Sandbox](#files-hashes)
