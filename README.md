@@ -17,6 +17,10 @@ All of my threat intel recommendations for aspiring Information Security Analyst
 - ✍️ [Effective writing](#effective-write)
 - 👩‍🎓 [Education resources](https://github.com/abathelt/Resources/blob/main/README.md)
 
+#### Useful Extention
+- [Mitaka - Chrome](https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg/related?authuser=0) - for searching IP, domain, URL, hash, etc. via the context menu.
+- [Mitaka - Firefox]([https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg/related?authuser=0](https://addons.mozilla.org/en-US/firefox/addon/mitaka/)) - for searching IP, domain, URL, hash, etc. via the context menu.
+
 ### Threat Intel Resources 
 Threat intel resource used by analysts on a daily basis.
 
