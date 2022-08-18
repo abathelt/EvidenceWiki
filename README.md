@@ -15,7 +15,7 @@ All of my threat intel recommendations for aspiring Information Security Analyst
 - 🧰 [Forensic](#forensic-list)
 - 📋 [Cheatsheet](#cheat-sheet)
 - ✍️ [Effective writing](#effective-write)
-- 👩‍🎓 [CTF/Learning](#ctf-challange)
+- 👩‍🎓 [Education resources](https://github.com/abathelt/Resources/blob/main/README.md)
 
 ### Threat Intel Resources 
 Threat intel resource used by analysts on a daily basis.
@@ -156,15 +156,3 @@ Threat intel resource used by analysts on a daily basis.
 - [Grammarly](https://app.grammarly.com/)
 - [How to Ask Questions to Succeed with Security Projects](https://zeltser.com/how-to-ask-questions-to-succeed-with-security-projects/)
 
-#### <a name="ctf-challange"></a>👩‍🎓 CTF/Learning
-- [Lets Defend](https://letsdefend.io/)
-- [Blue Team Labs](https://blueteamlabs.online/)
-- [Cyber Defenders](https://cyberdefenders.org/)
-- [CTF learn](https://ctflearn.com/)
-- [Hacker101](https://www.hacker101.com/)
-- [Try Hack me](https://tryhackme.com/)
-- [Hack the Box](https://www.hackthebox.eu/)
-- [VulnHub](https://www.vulnhub.com/)
-- [Immersive Labs](https://immersivelabs.online/signin)
-- [Pentest Lab](https://pentesterlab.com/)
-- [Pico CTF](https://play.picoctf.org/login?redirect=/login)
