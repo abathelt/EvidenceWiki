@@ -28,6 +28,7 @@ Threat intel resource used by analysts on a daily basis.
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [Talos Intelligence](https://talosintelligence.com/)
 - [VirtusTotal](https://www.virustotal.com/gui/) 
+- [Abuse.ch](https://abuse.ch/) - to identify and track malware and botnets
 - [URL2PNG](https://www.url2png.com/) - does a screenshot of the website
 - [URLScan](https://urlscan.io/) 
 - [AlienVault](https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1)
