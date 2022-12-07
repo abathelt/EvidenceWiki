@@ -52,6 +52,7 @@ Threat intel resource used by analysts on a daily basis.
 
 #### <a name="files-hashes"></a>📁 Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
+- [InQuest Labs](https://labs.inquest.net/)
 - [ThreatMiner](https://www.threatminer.org/) - sata mining for threat intelligence (hash/IP/URL)
 - [Metadefender Cloud - OPSWAT](https://metadefender.opswat.com/)
 - [Any.Run](https://app.any.run/) - sandbox
