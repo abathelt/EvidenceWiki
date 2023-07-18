@@ -30,7 +30,8 @@ Threat intel resource used by analysts on a daily basis.
 - [VirtusTotal](https://www.virustotal.com/gui/) 
 - [Abuse.ch](https://abuse.ch/) - to identify and track malware and botnets
 - [URL2PNG](https://www.url2png.com/) - does a screenshot of the website
-- [URLScan](https://urlscan.io/) 
+- [URLScan](https://urlscan.io/)
+- [Robtex](https://www.robtex.com/) - used for various kinds of research of IP numbers, Domain names, etc
 - [AlienVault](https://otx.alienvault.com/browse/global/pulses?include_inactive=0&sort=-modified&page=1)
 - [RiskIQ](https://community.riskiq.com/home)
 - [ThreatCrowd](https://www.threatcrowd.org/) 
