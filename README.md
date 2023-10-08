@@ -27,7 +27,8 @@ Threat intel resource used by analysts on a daily basis.
 #### <a name="domain-ip"></a>💻 Domain & IP (top 6 are the most used by me)
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [Talos Intelligence](https://talosintelligence.com/)
-- [VirtusTotal](https://www.virustotal.com/gui/) 
+- [VirtusTotal](https://www.virustotal.com/gui/)
+- [CyberGordon](https://cybergordon.com/) - provides you threat and risk information about observables like IP address or web domain
 - [Abuse.ch](https://abuse.ch/) - to identify and track malware and botnets
 - [URL2PNG](https://www.url2png.com/) - does a screenshot of the website
 - [URLScan](https://urlscan.io/)
@@ -49,7 +50,8 @@ Threat intel resource used by analysts on a daily basis.
 - [Browse Botnet C&Cs](https://feodotracker.abuse.ch/browse/) 
 - [Etherscan](https://etherscan.io/) - Blockchain Explorer 
 - [ReversDNS](https://viewdns.info/reversewhois/) 
-- [DNSRecord](https://viewdns.info/dnsrecord/) 
+- [DNSRecord](https://viewdns.info/dnsrecord/)
+- [CentralOPS](https://centralops.net/co/) - domain check
 
 #### <a name="files-hashes"></a>📁 Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
@@ -91,7 +93,8 @@ Threat intel resource used by analysts on a daily basis.
 - [Ether Chain](https://www.etherchain.org/) - The Ethereum Block Chain Explorer
 
 #### <a name="encode-decode"></a>🖹 Encode/Decode 
-- [CyberChef](https://gchq.github.io/CyberChef/) - encryption, encoding, compression and data analysis
+- [CyberChef](https://gchq.github.io/CyberChef/) - encryption, encoding, compression and data analysis.
+- [Puny Coder](https://www.punycoder.com/) - is a special encoding used to convert Unicode characters to ASCII, which is a smaller, restricted character set. Punycode is used to encode internationalized domain names (IDN).
 - [BASE64](https://www.base64decode.org/) - Decode from Base64 format or encode into it with various advanced options. 
 - [Hexed](https://hexed.it/) - analyse and edit binary files everywhere
 - [Uncoder](https://uncoder.io/) - Universal sigma rule converter for various siem, edr, and ntdr formats
