@@ -52,6 +52,7 @@ Threat intel resource used by analysts on a daily basis.
 - [ReversDNS](https://viewdns.info/reversewhois/) 
 - [DNSRecord](https://viewdns.info/dnsrecord/)
 - [CentralOPS](https://centralops.net/co/) - domain check
+- - [Have I been Squatted](https://www.haveibeensquatted.com/) - Check if a domain has been typosquatted
 
 #### <a name="files-hashes"></a>📁 Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
