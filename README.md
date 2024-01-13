@@ -28,6 +28,7 @@ Threat intel resource used by analysts on a daily basis.
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [Talos Intelligence](https://talosintelligence.com/)
 - [VirtusTotal](https://www.virustotal.com/gui/)
+- [URL Query](https://urlquery.net/) - employs a diverse range of threat detection systems to ensure comprehensive security analysis of URLs. 
 - [CyberGordon](https://cybergordon.com/) - provides you threat and risk information about observables like IP address or web domain
 - [Abuse.ch](https://abuse.ch/) - to identify and track malware and botnets
 - [URL2PNG](https://www.url2png.com/) - does a screenshot of the website
@@ -52,7 +53,7 @@ Threat intel resource used by analysts on a daily basis.
 - [ReversDNS](https://viewdns.info/reversewhois/) 
 - [DNSRecord](https://viewdns.info/dnsrecord/)
 - [CentralOPS](https://centralops.net/co/) - domain check
-- - [Have I been Squatted](https://www.haveibeensquatted.com/) - Check if a domain has been typosquatted
+- [Have I been Squatted](https://www.haveibeensquatted.com/) - Check if a domain has been typosquatted
 
 #### <a name="files-hashes"></a>📁 Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
