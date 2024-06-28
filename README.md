@@ -28,6 +28,7 @@ Threat intel resource used by analysts on a daily basis.
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [Talos Intelligence](https://talosintelligence.com/)
 - [VirtusTotal](https://www.virustotal.com/gui/)
+- [Redirect tracker](https://www.websiteplanet.com/webtools/redirected/?url=)
 - [Cyren IP Reputation Check](https://www.cyren.com/security-center/cyren-ip-reputation-check-gate)
 - [URL Query](https://urlquery.net/) - employs a diverse range of threat detection systems to ensure comprehensive security analysis of URLs. 
 - [CyberGordon](https://cybergordon.com/) - provides you threat and risk information about observables like IP address or web domain
@@ -58,6 +59,7 @@ Threat intel resource used by analysts on a daily basis.
 
 #### <a name="files-hashes"></a>📁 Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
+- [Malware Hash Registry (MHR)](https://hash.cymru.com/) - checking hashes against malware data
 - [InQuest Labs](https://labs.inquest.net/)
 - [ThreatMiner](https://www.threatminer.org/) - sata mining for threat intelligence (hash/IP/URL)
 - [Metadefender Cloud - OPSWAT](https://metadefender.opswat.com/)
