@@ -87,6 +87,13 @@ Threat intel resource used by analysts on a daily basis.
 - [Confense webinar "Remote Work Phishing Threats and How to Stop Them"](https://vimeo.com/418602022/7935ced585)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
 - [Have I Been Sold](https://haveibeensold.app/)
+- [email-finder](snov.io/email-finder) - searching emails for a specific domain
+- [experte](experte.com/email-finder) - searching emails for a specific domain
+- [Infoga - github](github.com/GiJ03/Infoga) - searching emails for a specific domain
+- [Infoga Email OSINT ](infoga.io)  - searching emails for a specific domain
+- [findemail](findemail.io) - searching emails for a specific domain
+- [hunter - Domain search](hunter.io/domain-search) - searching emails for a specific domain
+- [minelead](minelead.io) - searching emails for a specific domain
 
 #### <a name="user-agent"></a>👤 UserAgent: 
 - [UserAgentString](http://useragentstring.com/)
