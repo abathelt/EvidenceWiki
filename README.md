@@ -78,8 +78,6 @@ Threat intel resource used by analysts on a daily basis.
 - [Verify-Email](https://verify-email.org/)
 - [Phishtool](https://app.phishtool.com/)
 - [Hunter.io](https://hunter.io/)
-- [PublicEmailRecords](http://publicemailrecords.com/)
-- [EmailBlackist](https://grademyemail.co/email-blocklist-checker) 
 - [PhishTank](https://www.phishtank.com/)
 - [Spy Dialer](https://www.spydialer.com/default.aspx)
 - [CheckPhish](https://checkphish.ai/)
@@ -94,6 +92,7 @@ Threat intel resource used by analysts on a daily basis.
 - [findemail](https://findemail.io) - searching emails for a specific domain
 - [hunter - Domain search](https://hunter.io/domain-search) - searching emails for a specific domain
 - [minelead](https://minelead.io) - searching emails for a specific domain
+- [intelbase](https://intelbase.is/) - have I been pwned on steroids
 
 #### <a name="user-agent"></a>👤 UserAgent: 
 - [UserAgentString](http://useragentstring.com/)
