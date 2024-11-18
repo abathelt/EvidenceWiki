@@ -93,6 +93,11 @@ Threat intel resource used by analysts on a daily basis.
 - [hunter - Domain search](https://hunter.io/domain-search) - searching emails for a specific domain
 - [minelead](https://minelead.io) - searching emails for a specific domain
 - [intelbase](https://intelbase.is/) - have I been pwned on steroids
+- [breachdirectory](https://breachdirectory.org/) - CHECK IF YOUR EMAIL OR USERNAME WAS COMPROMISED
+- [scamsearch](https://scamsearch.io/#anchorCeckNow)
+- [castrickclues](https://castrickclues.com/)
+- [holehe](https://github.com/megadose/holehe) - Efficiently finding registered accounts from emails.
+- [mailcat](https://github.com/sharsil/mailcat) - The only cat who can find existing email addresses by nickname.
 
 #### <a name="user-agent"></a>👤 UserAgent: 
 - [UserAgentString](http://useragentstring.com/)
