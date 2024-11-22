@@ -66,7 +66,7 @@ Threat intel resource used by analysts on a daily basis.
 - [Any.Run](https://app.any.run/) - sandbox
 - [VirSCAN.org](http://virscan.org/)
 - [TotalHash](https://totalhash.cymru.com/)
-- [Malwares](https://www.malwares.com/)
+- [CTX](https://www.ctx.io/) - korean website but really good
 - [Intezer analyze](https://analyze.intezer.com/) - All malware analysis tools under one platform
 - [Cuckoo](https://cuckoo.cert.ee/) - sandbox
 - [Joe Sandbox](https://www.joesandbox.com/#windows) 
