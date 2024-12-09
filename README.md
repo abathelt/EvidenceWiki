@@ -122,6 +122,7 @@ Threat intel resource used by analysts on a daily basis.
 - [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/)
 - [Hashes examples](https://hashcat.net/wiki/doku.php?id=example_hashes)
 - [Filecrypt](https://filecrypt.co/Create.html) - The simple, secure file-hosting application
+- [PSDecode](https://github.com/R3MRUM/PSDecode) - This is a PowerShell script for deobfuscating other encoded PowerShell scripts. 
 
 #### <a name="google-dork"></a>🔎 Google Dorks 
 - [OSINTcurio.us](https://osintcurio.us/2019/12/20/google-dorks/)
