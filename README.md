@@ -76,6 +76,7 @@ Threat intel resource used by analysts on a daily basis.
 #### <a name="phish-ing"></a>🐟 Phishing 
 - [EmailRep](https://emailrep.io/)
 - [Verify-Email](https://verify-email.org/)
+- [Infoga - Email OSINT](https://www.infoga.io/)
 - [Phishtool](https://app.phishtool.com/)
 - [Hunter.io](https://hunter.io/)
 - [PhishTank](https://www.phishtank.com/)
