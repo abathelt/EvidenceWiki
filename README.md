@@ -28,6 +28,7 @@ Threat intel resource used by analysts on a daily basis.
 - [AbuseIPDB](https://www.abuseipdb.com/) 
 - [Talos Intelligence](https://talosintelligence.com/)
 - [VirtusTotal](https://www.virustotal.com/gui/)
+- [WhoIs](https://whois.domaintools.com/)
 - [Redirect tracker](https://www.websiteplanet.com/webtools/redirected/?url=)
 - [Cyren IP Reputation Check](https://www.cyren.com/security-center/cyren-ip-reputation-check-gate)
 - [URL Query](https://urlquery.net/) - employs a diverse range of threat detection systems to ensure comprehensive security analysis of URLs. 
