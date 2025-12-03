@@ -60,6 +60,7 @@ Threat intel resource used by analysts on a daily basis.
 
 #### <a name="files-hashes"></a>📁 Files, Hash & Sandbox (DO NOT upload internal files!) 
 - [VirtusTotal](https://www.virustotal.com/gui/)
+- [File Scan](https://www.filescan.io)
 - [Malware Hash Registry (MHR)](https://hash.cymru.com/) - checking hashes against malware data
 - [InQuest Labs](https://labs.inquest.net/)
 - [ThreatMiner](https://www.threatminer.org/) - sata mining for threat intelligence (hash/IP/URL)
